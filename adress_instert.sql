@@ -1,0 +1,15 @@
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (1, 'Sienkiewicza', 'Ostrowiec', '27-400');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (2, 'Wojnollowa', 'Kielce', '28-400');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (3, 'Sloneczna', 'Warszawa', '21-115');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (4, 'Deszczowa', 'Gdansk', '21-615');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (5, 'Pawia', 'Kunow', '21-666');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (6, 'Stupacka', 'Gdansk', '78-615');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (7, 'Trawna', 'Lublin', '78-555');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (8, 'Korzenna', 'Zakopane', '78-112');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (9, 'Toruńska', 'Toruń', '78-454');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (10, 'Piwna', 'Wrocaw', '78-333');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (11, 'Wydrzycka', 'Wydrów', '34-343');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (12, 'Winna', 'Pacanów', '67-343');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (13, 'Polipowa', 'Kraków', '67-121');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (14, 'Rzutkowa', 'Opatów', '55-555');
+INSERT INTO Adres  (ID_ADRESU, Ulica, Miasto ,Kod_pocztowy) VALUES (15, 'Wychowana', 'Łódź', '55-233');

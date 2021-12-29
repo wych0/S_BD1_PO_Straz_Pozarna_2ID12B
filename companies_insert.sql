@@ -1,0 +1,15 @@
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(1,'insurance',1,1);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(2,'insurancecarefree',2,2);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(3,'cheekilyinsurance',3,3);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(4,'silkroadinsurance',4,4);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(5,'insightfulinsurance',5,5);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(6,'paleoinsurance',6,6);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(7,'summeryinsurancecomp',7,7);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(8,'insurancecomp',8,8);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(9,'archerinsurancecomp',9,9);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(10,'realisticinsurance',10,10);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(11,'futuristicinsurance',11,11);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(12,'excelsiorinsurance',12,12);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(13,'futureinsurancecomp',13,13);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(14,'holyinsurancecomp',14,14);
+INSERT INTO Firma(ID_FIRMY, Nazwa, ID_KONTAKTU, ID_ADRESU) VALUES(15,'newageinsurancecomp',15,15);
